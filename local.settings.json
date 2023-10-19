@@ -1,0 +1,23 @@
+{
+    "isencrypted": false,
+  "values": {
+    "servicebusconnectionstring": "your-connection-string",
+    "instrumentationkey": "your_application_insights_instrumentation_key",
+    "emailthreshold": "100", // the threshold for sending an alert email
+    "sendgridapikey": "send-grid-api-key",
+    "senderemail": "sender@mail.com",
+    "recipientemail": "recever@mail.com",
+    "azurewebjobsstorage": "usedevelopmentstorage=true",
+    "functions_worker_runtime": "dotnet",
+    "aspnetcore_environment": "development"
+
+  }  
+
+}
+
+
+  
+
+
+
+
